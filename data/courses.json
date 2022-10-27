@@ -2,8 +2,8 @@
     {
         "id": "635966b5a9d2d5b4c492f3a9",
         "title": "Complete Python Developer in 2022",
-        "price": 700,
-        "thumbnail_url": "https://media.istockphoto.com/photos/shot-of-a-young-businesswoman-using-a-digital-tablet-while-at-work-picture-id1365606637?k=20&m=1365606637&s=612x612&w=0&h=xEQRPMgOF8OzCgEZ0GjG19HaZbWHe_N0irjn86svyto=",
+        "price": 19,
+        "thumbnail_url": "https://www.codingbytes.com/wp-content/uploads/2020/03/python-programming-course.jpg",
         "photo_url": "https://media.istockphoto.com/photos/shot-of-a-young-businesswoman-using-a-digital-tablet-while-at-work-picture-id1365606637?k=20&m=1365606637&s=612x612&w=0&h=xEQRPMgOF8OzCgEZ0GjG19HaZbWHe_N0irjn86svyto=",
         "instructor": {
             "name": "Jerry M.",
@@ -16,126 +16,165 @@
         "details": {
             "heading": "Complete Python Developer in 2022: Zero to Mastery",
             "description": "Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date Python course on TechTutor (we use the latest version of Python). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Python tutorials anymore.The curriculum is going to be very hands on as we walk you from start to finish of becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real life practice and be ready for the real world.",
+            "topics": " <ul><li>Command Line Basics</li> <li>Installing Python</li><li>Running Python Code</li><li>Strings</li><li>Dictionaries</li> <li>Number Data Types</li><li>Debugging and Error Handling</li><li>Object Oriented Programming</li><li>Advanced Methods</li><li>Print Formatting</li><li>Built-in Functions</li><li>and much more!</li><ul/>",
             "enrolled": 59,
             "level": "Beginner",
             "lectures": 32,
             "duration": "22:41:31",
-            "languages": "Bangla"
+            "languages": "English"
         }
     },
+
+
+
+
+
     {
         "id": "635966b5ae70f31315b76f99",
-        "title": "Complete Python Developer in 2022: Zero to Mastery",
-        "price": 700,
-        "thumbnail_url": "",
-        "photo_url": "",
+        "title": "Microsoft Excel for Beginner ",
+        "price": 25,
+        "thumbnail_url": "https://www.tangolearn.com/wp-content/uploads/2021/10/best-online-excel-courses.jpg",
+        "photo_url": "https://media.istockphoto.com/photos/shot-of-a-young-businesswoman-using-a-digital-tablet-while-at-work-picture-id1365606637?k=20&m=1365606637&s=612x612&w=0&h=xEQRPMgOF8OzCgEZ0GjG19HaZbWHe_N0irjn86svyto=",
         "instructor": {
             "name": "Jerry M.",
-            "img": ""
+            "img": "https://lh3.googleusercontent.com/AzH87FQ1Qeen7tsg0QgADaOK4YawufVUVAXTm01-cH1a_xL4KvkZSQibMcL4LFBbCBiRq8pfDDqD0Wwt-fpsDQMgf845M18-6EFz3y4o_570y2jDwXpbGBvW5FfYQZSJxTbhOWDnKubH9gxF68cofA_QrQsWtmiJTWLamnSv0_cxNss6BBsh00yNLpOcobfNCk47ICtVHV1p5ZwtjRO-ebvmonPBTmmMFn4sJiN8Mw-zgsfh_oNKHaHpwAKBhzDQB4abEZDfzj9cn2z5vNPavdiaHLSTxJwW17i_UUL97BS3b55PFjwe7c80n7xCezMrBI3w1BrFdVJ5oS4SfQsDi5s96S9UUN-zRQ4ssjpV8IZkSuUxRFpbAG7R75ugEqoz6el8uL5KQz5sN1Yt90WAOM32hP7PewpK5uLykWOE8kbU0WOlRGb-jseLcYxDDMgpVPc9xwi78b4xOaWrcDOrIGyPs2W4ciMfnzX6e8QiPa2tw4FqYVbd1oulGbrWUf4kTyeYfxjLC0TOuH3ZxCWNRcbhA91hXIIr_JtQlsde-0vmGazMyr32GNggtxldQjanq8J9eVN-PcgZBpVziNKxF0jDDwkJJwYLSz_Vo1gwyHQNUq-Yd33ZWB3o-ezDGdPpw49bf2RyqpWCW1WpgEaw-yfuNzpshRBQqnOZkzT5eqAi2lL1BY3Fdkeajr3C99Dfe5B8vqxfIBCpfmmYkrLHryT6mVkrrfWyK5EZBrZZR5-i0-LtISyCW9RQk7PjfxAejEM4SNcCaVm_iyUNbeIi3YAlBKJvbyOHs00RJSaUSvECZ74afRY42pMSwJB7P5I4_rWFjHlLIgw96CqwmGz2YIZHDTWmRow3DByBJvVsgVpvN4jlVLJ9AOLeqp5l_Bdf1J4p5qSaj1_9KWgT7WGgKcD-SgQbFe1vbKhlC9d1SoIhH5Zt3fx1Cl9Nm5VstGN1gYYtnhb6UCDKtVgP6ap9Eb7BJSEuEOdKZIB2UQoKHqysXVm0qXLK=s100-no?authuser=1"
         },
         "ratings": {
             "star": 3.5,
-            "number": 63
+            "number": 90
         },
         "details": {
-            "description": "Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date Python course on TechTutor (we use the latest version of Python). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Python tutorials anymore.The curriculum is going to be very hands on as we walk you from start to finish of becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real life practice and be ready for the real world.",
-            "enrolled": 59,
+            "heading": "Excel with this A-Z Microsoft Excel Course. Microsoft Excel 2010, 2013, 2016, Excel 2019 and Microsoft/Office 365",
+            "description": "Enroll now to go through a deep dive of the most popular spreadsheet tool on the market, Microsoft Excel. As a Microsoft Certified Trainer I will use my 20+ years of Excel training to guide you step by step through the beginner to advanced level and beyond.As you participate in each of the 4 courses you will master Excel tools that will clear away the pain of stumbling through your daily tasks. You will start with the basics, building a solid foundation that will give you further knowledge as you progress into intermediate and advanced level topics.At completion of this course you will have mastered the most popular Excel tools and come out with confidence to complete any Excel tasks with efficiency and grace. Below are just a few of the topics that you will master:",
+            "topics": " <ul><li>Creating effective spreadsheets</li> <li>Managing large sets of data</li><li>Mastering the use of some of Excel's most popular and highly sought after functions (SUM, VLOOKUP, IF, AVERAGE, INDEX/MATCH and many more...)</li><li>Create dynamic report with Excel PivotTables</li><li>Unlock the power and versatility of Microsoft Excel's Add-In, PowerPivot</li> <li>Audit Excel Worksheet formulas to ensure clean formulas</li><li>Automate your day to day Excel tasks by mastering the power of Macros and VBA</li><ul/>",
+            "enrolled": 120,
             "level": "Beginner",
             "lectures": 32,
-            "duration": "22:41:31",
-            "languages": "Bangla"
+            "duration": "34:41:31",
+            "languages": "English"
         }
+
     },
+
+
+
+
+
+
+
     {
         "id": "635966b57b731b62179067aa",
-        "title": "Complete Python Developer in 2022: Zero to Mastery",
-        "price": 700,
-        "thumbnail_url": "",
-        "photo_url": "",
+        "title": "Linux for Beginners",
+        "price": 59,
+        "thumbnail_url": "https://hackr.io/blog/best-linux-courses/thumbnail/large",
+        "photo_url": "https://media.istockphoto.com/photos/shot-of-a-young-businesswoman-using-a-digital-tablet-while-at-work-picture-id1365606637?k=20&m=1365606637&s=612x612&w=0&h=xEQRPMgOF8OzCgEZ0GjG19HaZbWHe_N0irjn86svyto=",
         "instructor": {
             "name": "Jerry M.",
-            "img": ""
+            "img": "https://lh3.googleusercontent.com/Rkyq0u7Dnc_rlywRORZ6Ccku3JEtNrlsKpl2oP7CSGUt-NdjW9uGOGGcCOVszaLaGeMcNxofu5nYjoBe_zbC8cLgTILFjApabWUSDqfAZdoq5-PZvoSGEMl3_oxl1cuprk8FGMsPgs4c8qydOtqqH18WVvVfi7ucSFLfiPkBgNRZVAD7ovIjUgLon0_eEzv1h-bK_eWOpv7ZuFH9cemLtBf_s-RFQvJjbt46q73B5DJXjAIYc8sPTB94a_8qONUZDtz-53i90N3hUF7s2HY0WOSokv6HWHORFNM_vAyixuQNpw46Wtn2QCgPw5TSUmKH2YTeITNq4jcRUu2qyZ7p9zRcHGoTrcUvsdZ7bVCjxCnPQVvYyOayxlD-tIsiMnzBuPVcFFB47OMQComafbkoRzpSXy1SbA5ftpk_xN_ZjOG_zeNHSREZ7EwrdXVI1ine7CqXikqxwftTc04eA4qhiZuZLKjCbTxXsksRG_9T-hxk6nFprzXvWjQZGF-V7KcJMtjbaj_gwfnC-Lv93C4H-iLOlsyAlXCF4aVNEjHrn8RGBVI0dOubB71N96XoX-bwfNfgak9p48_Z2eQcr-lO3A5hjrM9nAXxyQcsk5g9Ibb_RIDJatliGqdj3mew4ockn1jS-182-2mhJ1qcMZVUxjm0fS95K58x-X-3icwINTOW2LbqZu7J2QW1sZeZHsT4FaCVubEdCHXGNRHpvXs2OeXejskje1hN3Z7B4uSq7w_Af76ACsSOIyKBj4WjLd3CkA4v7hgg4awIcBr5PhMU5XsOR4e68oeLW6BVVmTRgJgpZKpJlAp-0hDL9ZbyHVer3HdHF1dmURm_jBd3w-8E3XuyCWSDpmURSOrtOmDxU5mLh8ChAAESPp93IyYGBcoAE6gBAb2s2miT04FULrJlFACLUd5zMrRoRP3aMOod3bQBAJMakwVpvXUC99HsnU7PoUpBZIc5VivtTg4dnFMJry6Bn1-6ochRgyGw_gtxoNa_AK-cGtuq=s100-no?authuser=1"
         },
         "ratings": {
-            "star": 3.5,
-            "number": 63
+            "star": 4.5,
+            "number": 223
         },
         "details": {
-            "description": "Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date Python course on TechTutor (we use the latest version of Python). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Python tutorials anymore.The curriculum is going to be very hands on as we walk you from start to finish of becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real life practice and be ready for the real world.",
-            "enrolled": 59,
+            "heading": "An Introduction to the Linux Operating System and Command Line",
+            "description": "If you want to learn how to use Linux, but don't know where to start read on. Knowing where to start when learning a new skill can be a challenge, especially when the topic seems so vast. There can be so much information available that you can't even decide where to start. Or worse, you start down the path of learning and quickly discover too many concepts, commands, and nuances that aren't explained. This kind of experience is frustrating and leaves you with more questions than answers. Linux for Beginners doesn't make any assumptions about your background or knowledge of Linux. You need no prior knowledge to benefit from this course. You will be guided step by step using a logical and systematic approach. As new concepts, commands, or jargon are encountered they are explained in plain language, making it easy for anyone to understand.",
+            "topics": " <ul><li>How to get access to a Linux server if you don't already</li> <li>What a Linux distribution is and which one to choose.</li><li>What software is needed to connect to Linux from Mac and Windows computers.</li><li>What SSH is and how to use it.</li><li>The file system layout of Linux systems and where to find programs, configurations, and documentation.</li> <li>The basic Linux commands you'll use most often.</li><li>Creating, renaming, moving, and deleting directories.</li><li> Listing, reading, creating, editing, copying, and deleting files.<li/><li>How to schedule and automate jobs using cron.<li/><li>How to switch users and run processes as others.<li/><li>How to find and install software.<li/><ul/>",
+            "enrolled": 45,
             "level": "Beginner",
-            "lectures": 32,
-            "duration": "22:41:31",
-            "languages": "Bangla"
+            "lectures": 42,
+            "duration": "30:41:31",
+            "languages": "English"
         }
     },
+
+
+
+
+
+
+
     {
         "id": "635966b51d98f7449830d987",
-        "title": "Complete Python Developer in 2022: Zero to Mastery",
-        "price": 700,
-        "thumbnail_url": "",
-        "photo_url": "",
+        "title": "Docker Crash Course for Beginner",
+        "price": 39,
+        "thumbnail_url": "https://edutrickz.com/wp-content/uploads/2021/03/docker.png",
+        "photo_url": "https://media.istockphoto.com/photos/shot-of-a-young-businesswoman-using-a-digital-tablet-while-at-work-picture-id1365606637?k=20&m=1365606637&s=612x612&w=0&h=xEQRPMgOF8OzCgEZ0GjG19HaZbWHe_N0irjn86svyto=",
         "instructor": {
             "name": "Jerry M.",
-            "img": ""
+            "img": "https://lh3.googleusercontent.com/wLyVEfnfrBNuG8OEq_9oHlhBfpClr-LaWWd-MzG9ZPuUBoJkt6TbNqHoJqnJD-edza2YHekNDQpXchvb_S1P49SrlLa9EEbIhuCNroGTx5ohklcnv7uuT5_KE7Y3un-GIqaG9jLOx7NYeZjvqBCtSePfgnHjCD1QgfH0vdf_PHp8JaanAq95teWRQsXzgDaYQp2RQkiot7TXJBcLbN7KVu0U_xPbHybvkRZaE-ut-xVAVwxrKtXB_YSBY1funhQb6EXkqAlf1Tl31sUu6KECdaxPQ7PuA81xByba5vtyK_qWtZwTtflQDot7n5LukNnu1PTc8PqZ1T6ad1spFHQKdRkcHhuj-aEBKfshgP63skJucutoaXjZWbPWB6G8zvf1PS4Vr5y_77iE2qt5VvZvV6MrMMAjaW3aqxEMNA8BEmYcRjxbdBlaqry1GtnrCAktKwv_5bAhuLi_XEeZmMircmdaFu31iYvDlGDt9nrM-316R3dTUUoAupevylKAWG3f259FVFLHyw-3jVoA8-UO6kVWvKn_rM8rCsHuN5YOLBzAnd_pQz_no3ufmNMwNuj9s4SN5FLXHK9uJLpJzmar5qwVga8MgYB4gwwLeA2DK1Uey5Q87rlX4WeJGYdXt8IQsoi1ryGFCYabKzrkQTdu7Uy0eqJCxomipuGokUE_4iqkah6ATtzPYbgMUdlSQr_lZ9RE9gZXanvYAMFG-DKg939HhgKjfRKGD8oVbTfoyKQ5LsB4kGSNDDNcU6E_ZPiF_2glaT_thk-ED1nWfwqvVOwFcH6hVoNlpCswJU4Wq-OkvyObhVJHuXOJhyj7nidUUgjZjWoLtnB_22jUvNP4g17YVnbL5md3gNcMqb89n1IHuitQjqJZwr9HZQkp5rL6hFR3UNx1BzeXyTZPBz3gOFv4l3bzrG7Y4vCPGajApMvLL-r0rCkJiVIP9o4c1bX49YXK5OWikseRiyJD-khKKDMmQk3oe6QtoKUWHR2-_smi9d7zmqUU=s100-no?authuser=1"
         },
         "ratings": {
-            "star": 3.5,
-            "number": 63
+            "star": 4.5,
+            "number": 48
         },
         "details": {
-            "description": "Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date Python course on TechTutor (we use the latest version of Python). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Python tutorials anymore.The curriculum is going to be very hands on as we walk you from start to finish of becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real life practice and be ready for the real world.",
-            "enrolled": 59,
+            "heading": "Learn how to develop and deploy web applications with Docker technologies. Take your DevOps skills to the next level.",
+            "description": "This course covers all the fundamentals about Docker software and teach you everything you need to know about developing and deploying modern applications with Docker software.In the end of this course, you will gain in-depth knowledge about Docker software and general DevOps skills to help your company or your own project to apply the right docker workflow and continuously deliver better software.Docker software is on the bleeding edge of technology today.  It is also one of the most compelling technologies of the last decade in terms of its disruption to software development, operations, systems architecture, testing and compliance practices.",
+            "topics": " <ul><li>Containerize a web-based application with a micro-service approach and automate it using Dockerfile.</li> <li>Design multi-container applications and automate the workflow using Compose.</li><li>Scale Docker workflow with Docker Swarm, orchestrate and deploy a large-scale application across multiple hosts in the cloud.</li><li>Best practices of working with Docker software in the field.</li><li>In-depth knowledge about Docker software and confidence to help your company or your own project to apply the right Docker deployment workflow and continuously deliver better software.</li> <li>Invaluable DevOps skills such as setting up continuous integration pipelines.</li><ul/>",
+            "enrolled": 63,
             "level": "Beginner",
-            "lectures": 32,
-            "duration": "22:41:31",
-            "languages": "Bangla"
+            "lectures": 40,
+            "duration": "20:41:31",
+            "languages": "English"
         }
     },
+
+
+
+
     {
         "id": "635966b5b6b39139a1c35e19",
-        "title": "Complete Python Developer in 2022: Zero to Mastery",
-        "price": 700,
-        "thumbnail_url": "",
-        "photo_url": "",
+        "title": "Introduction to Web Development",
+        "price": 35,
+        "thumbnail_url": "https://industrialtraining.pro/wp-content/uploads/2021/12/web-development-1.png",
+        "photo_url": "https://media.istockphoto.com/photos/shot-of-a-young-businesswoman-using-a-digital-tablet-while-at-work-picture-id1365606637?k=20&m=1365606637&s=612x612&w=0&h=xEQRPMgOF8OzCgEZ0GjG19HaZbWHe_N0irjn86svyto=",
         "instructor": {
             "name": "Jerry M.",
-            "img": ""
+            "img": "https://lh3.googleusercontent.com/oFO9xlltcFTWalWH5y3zfRiIpoy5wuumTekqRmWKanc5qbUk-UTiBbLGa1xhTmy_l_pJt8fZUAc6-eyrivoLJlOM5fuXiwRq4OXUttxNxyWAbQ0WMEnLIkUMoz13iXaedkM1mlHbNDAHQH5BYeU34aVwQN7k8Xc0i6d7or6llY6X45qbEZT1CVMpJ2OtbQFaYG9qoHkHKsBIcvpbkJ0lR-Wjt-0gGXo-Uxbq3L_eiAB7z4Lj-G6RkfplHou7Ve_JXLA-3ZG4mMWfUJBjIUZ3IIbDw5yXn8v-Yw6BWQeEPkT8opnHjxRuNd6rEm36MVY7cPtpV66Gx5dDjGtkH12n8kprGIKXOZX0GUpioiEnYTmhnoB7f2CQfLcwOlDdbqH4yLTCa4cmoVtY6owneNdiXIJ355NxRvEsQZFp0J0Zm6Yyws_5nBF4cAJPseZxNwhm1PEQHbeyDGGWdm07UrnJpc7xlLXCLRgU050rot4CSF7YJrS1m1JE3BPJBuQyOLvHq2ZaW17oiP02BO3C5_rFWOQvwbRJjD3b7-FBd5AjCIIAZh1XidZlE21SoiVdY9bKNN3wlIToZoT0KLovTgeWHwwNy193HFvSU2o1k04xNROrM8sakWias-rU_k2-E8khFbPc9Vofpyc766lXCtTWVPf6tPuS3-z8srSTw5j5DloB7szL16Ru2JNFgExVT6m3pnj6LgfhVa6g1_y9ebI7YvOWx2-7rOoSIxl80wm-3AENLr6ed30jFSH9T6ycKAcBTvWAQGCGBifdkZGtaEeLwFXjgmHz0KUzkGm_zt7FNdlLYfkVFrmw6BHtIG8v6rg_HiMrobcvSqNMgeKSQxEDRZYPPhLsJ7laE86qStJGjEqxSlaVqX47JdJbhHgdrA3nI35VN3pmfBxXox9ZD2P3ytrxT-08Ya3xsXHoCsmLXD85-2YhD8akYCl_CtQjXqnwsUf3FXb9SBqnlmnOAsoOeq4p69r2sj0sEoVtpe0z6z8VSEwyKX6n=s100-no?authuser=1"
         },
         "ratings": {
             "star": 3.5,
-            "number": 63
+            "number": 49
         },
         "details": {
-            "description": "Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date Python course on TechTutor (we use the latest version of Python). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Python tutorials anymore.The curriculum is going to be very hands on as we walk you from start to finish of becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real life practice and be ready for the real world.",
-            "enrolled": 59,
+            "heading": "Are you Interested in Learning Web Development? Enroll in this Free course for a Dynamic Introduction to the Profession!",
+            "description": "Are you considering web development as a career? Do you simply want to learn to create your own web sites but don't know where to start? Does the world of programming fascinate you? Are you curious about to be a web developer?.Join master instructor, Mark Lassoff, for this fast paced, short course designed to introduce you to the world of web development. You'll be introduced to three of the primary languages used for web development.This course is designed to give you a preview of what professional web development work is like. You'll use some of the same languages and techniques used by professional web developers every day. With fascinating, fast paced lectures, code samples, and challenging lab exercises (solutions provided) you'll gain a sense of what it's like to work in the web development field.Thousands have learned web development and programming from Mark Lassoff. Join Introduction for Web Development today and start your path towards mastering this exciting and challenging field.",
+            "topics": " <ul><li>Understand the technologies used in web development</li> <li>Apply HTML document structure</li><li>Add images to a web page</li><li>Understand the HTML/CSS color model</li><li>Alter CSS text properties</li><li>Understand the next steps to learning professional web development skills</li><ul/>",
+            "enrolled": 67,
             "level": "Beginner",
-            "lectures": 32,
-            "duration": "22:41:31",
-            "languages": "Bangla"
+            "lectures": 60,
+            "duration": "40:41:31",
+            "languages": "English"
         }
     },
+
+
+
+
     {
         "id": "635966b524cdae20e4df30e3",
-        "title": "Complete Python Developer in 2022: Zero to Mastery",
-        "price": 700,
-        "thumbnail_url": "",
-        "photo_url": "",
+        "title": "PHP for Beginners - Become a PHP Master - CMS Project",
+        "price": 59,
+        "thumbnail_url": "https://www.fossmint.com/wp-content/uploads/2020/03/Best-PHP-Courses-for-Beginners.png",
+        "photo_url": "https://media.istockphoto.com/photos/shot-of-a-young-businesswoman-using-a-digital-tablet-while-at-work-picture-id1365606637?k=20&m=1365606637&s=612x612&w=0&h=xEQRPMgOF8OzCgEZ0GjG19HaZbWHe_N0irjn86svyto=",
         "instructor": {
             "name": "Jerry M.",
-            "img": ""
+            "img": "https://lh3.googleusercontent.com/vBZNhmJ5oHkUh-t3gWU8XMN4hOcbWx3nQ4n3Ye3kuJ5Og0En6w4rk9FK_DW2H-_wRg8EEvxUj1TNtOPtDSCzMyDgJwVOTTCDcGLdLwNJDylXCi94XtySq6IBoVtyMmrWwJsAqxCqaT2jYmUGB75L5TE0_I-vu0xK3_Rs5iF3lodHGr5zTIfQ_rowOLuR6zuSFkM2HCDoAlXvz_T1AaTvC7_b5RDfpt4J91FEmznceppTtrnadV7IIqt1BsUsctK23J1J9hHux27uKgeHC-9_3JJW3aq8bhA_AqfBjApBH0UsH9Eakp_76lRV-mGp8JYQbQf1NtrowgiIwg4Pu6iDABiNFzIqWPok6B12wBNUK3X2w2VxBDgNNXNX_7EcXsTT1JYU4yqTohfIU-PkxSakipb5bjgHMy2c8KdOOvP_ecLS-ncBvBIk5_28vK-8GdC8-zCWulz67aDjpYJchOybZL_bl3nz1RdNwidLMUmnx65d-qqh4ukOt6NvMFo4mtsqFU67-LYuEYRslXZtaO2B45UYPg0uzGsusPYmAOhdX4vPZXUcCsbmSWvgMabzn_oBr5jGAxow-1meNIm7ZqLehX-ZENSwQZgvcxtklKIVcLZPU78uMPo92Ax5ZUD30Ivz1sGO95yOG-rUN1_V6pKlV5O2WeoJJsmbXm8rxB_evJGtr6A4j-ukG1UTj5FZVZCsStvoReNaJS8Iczm5nekX1msbYi8goagzL-Gqrg7_ly3Ts1c6ezp8MZf8wF_yeHNwsOQtEzs86gc05GLKnHniBkGQEGkPpixtRtczQDt7F0RDPy5XF7qsJ1ZnFCNWckAZmx3SFrR8IQLpHFgGS9Okc5fOThY8OVZQx6IsNxNehl-bEwcEAHdUC7-7o6d8T4pdm-sESOVNZVbeXtDZ9pkEPDiDd1FYHelLUrqtONdRVcI4_kptOj9ztGDxDcm5agpiYBrr9WksrlHhzXSO36WkRza8r621hHjcnHsJlTpRgCd6rJ-xrM-c=s100-no?authuser=1"
         },
         "ratings": {
-            "star": 3.5,
-            "number": 63
+            "star": 4.5,
+            "number": 102
         },
         "details": {
-            "description": "Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date Python course on TechTutor (we use the latest version of Python). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Python tutorials anymore.The curriculum is going to be very hands on as we walk you from start to finish of becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real life practice and be ready for the real world.",
-            "enrolled": 59,
+            "heading": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
+            "description": "This PHP for beginners course introduces you to PHP through carefully crafted examples and fully worked tasks. Learning by doing is what this course is all about. You will experience real world examples of PHP code use. Have you seen other courses that use complex terms or that jump steps and leave you thinking .why did that just happen? You won't find that with this course because every line of code is explained and is very easy to follow.This course has been designed with the coding beginner in mind or those who may have picked up bad habits and wish to refresh their coding skills.On hand to help and guide you is a renowned national award-winning teacher who has taught 1000s of students over a career of over 25 years.",
+            "topics": " <ul><li>Databases in PHP</li> <li>Object Oriented PHP</li><li>CMS project-similar to (Wordpress)</li><li>Form Submissions in PHP</li><li>Security in PHP</li><li>Control Structures in PHP</li><li>  Sessions in PHP <li/><li>Authentication  <li/><li> Protect your credentials with .ENV <li/><li>  Learn Composer (PHP dependency Manager)<li/><li> Super Globals in PHP <li/><li>Learn to send emails - from PHP or using a third party Package <li/><ul/>",
+            "enrolled": 200,
             "level": "Beginner",
-            "lectures": 32,
-            "duration": "22:41:31",
-            "languages": "Bangla"
+            "lectures": 59,
+            "duration": "30:41:31",
+            "languages": "English"
         }
     }
 ]

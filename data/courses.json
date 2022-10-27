@@ -66,7 +66,7 @@
         "details": {
             "heading": "An Introduction to the Linux Operating System and Command Line",
             "description": "If you want to learn how to use Linux, but don't know where to start read on. Knowing where to start when learning a new skill can be a challenge, especially when the topic seems so vast. There can be so much information available that you can't even decide where to start. Or worse, you start down the path of learning and quickly discover too many concepts, commands, and nuances that aren't explained. This kind of experience is frustrating and leaves you with more questions than answers. Linux for Beginners doesn't make any assumptions about your background or knowledge of Linux. You need no prior knowledge to benefit from this course. You will be guided step by step using a logical and systematic approach. As new concepts, commands, or jargon are encountered they are explained in plain language, making it easy for anyone to understand.",
-            "topics": " <ul><li>How to get access to a Linux server if you don't already</li> <li>What a Linux distribution is and which one to choose.</li><li>What software is needed to connect to Linux from Mac and Windows computers.</li><li>What SSH is and how to use it.</li><li>The file system layout of Linux systems and where to find programs, configurations, and documentation.</li> <li>The basic Linux commands you'll use most often.</li><li>Creating, renaming, moving, and deleting directories.</li><li> Listing, reading, creating, editing, copying, and deleting files.<li/><li>How to schedule and automate jobs using cron.<li/><li>How to switch users and run processes as others.<li/><li>How to find and install software.<li/><ul/>",
+            "topics": " <ul><li>How to get access to a Linux server if you don't already</li><li>What a Linux distribution is and which one to choose.</li><li>What software is needed to connect to Linux from Mac and Windows computers.</li><li>What SSH is and how to use it.</li><li>The file system layout of Linux systems and where to find programs, configurations, and documentation.</li> <li>The basic Linux commands you'll use most often.</li><li>Creating, renaming, moving, and deleting directories.</li><li>Listing, reading, creating, editing, copying, and deleting files.<li/><li>How to schedule and automate jobs using cron.<li/><li>How to switch users and run processes as others.<li/><li>How to find and install software.<li/><ul/>",
             "enrolled": 45,
             "level": "Beginner",
             "lectures": 42,
@@ -94,7 +94,7 @@
             "topics": " <ul><li>Containerize a web-based application with a micro-service approach and automate it using Dockerfile.</li> <li>Design multi-container applications and automate the workflow using Compose.</li><li>Scale Docker workflow with Docker Swarm, orchestrate and deploy a large-scale application across multiple hosts in the cloud.</li><li>Best practices of working with Docker software in the field.</li><li>In-depth knowledge about Docker software and confidence to help your company or your own project to apply the right Docker deployment workflow and continuously deliver better software.</li> <li>Invaluable DevOps skills such as setting up continuous integration pipelines.</li><ul/>",
             "enrolled": 63,
             "level": "Beginner",
-            "lectures": 40,
+            "lectures": 34,
             "duration": "20:41:31",
             "languages": "English"
         }
@@ -120,7 +120,7 @@
             "enrolled": 67,
             "level": "Beginner",
             "lectures": 60,
-            "duration": "40:41:31",
+            "duration": "40:44:31",
             "languages": "English"
         }
     },

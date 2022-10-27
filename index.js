@@ -3,16 +3,23 @@ const app = express();
 const port = process.env.PORT || 5000;
 var cors = require('cors');
 
-
 app.use(cors());
+
+const courses = require('./data/courses.json');
+
+
+
 
 
 app.get('/', (req, res) => {
-    res.send('techistic-education api running!')
+    res.send('TechTutor api running!')
+});
+
+app.get('/courses', (req, res) => {
+    res.send(courses)
 });
 
 
-
 app.listen(port, () => {
-    console.log(`techistic-education server running ${port}`)
+    console.log(`TechTutor server running ${port}`)
 })
